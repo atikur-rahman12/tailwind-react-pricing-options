@@ -17,6 +17,7 @@
   {
     "id": 2,
     "name": "Standard Plan",
+    "popular": true,
     "price": "$59/Month",
     "description": "Perfect for regular members who want more guidance.",
     "features": [
